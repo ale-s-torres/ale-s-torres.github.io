@@ -3,7 +3,7 @@ layout: post
 title:  "Teaching"
 date:   
 description: 
-thumbnail: person1.jpeg
+thumbnail: child.JPG
 categories: category1
 
 # Information for the author block
