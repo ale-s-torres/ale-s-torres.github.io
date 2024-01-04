@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello, Portland"
-date:   2016-01-31 09:11:03
+title:  "Teaching"
+date:   
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg
 categories: category1
