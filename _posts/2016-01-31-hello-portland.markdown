@@ -2,7 +2,7 @@
 layout: post
 title:  "Teaching"
 date:   
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+description: 
 thumbnail: person1.jpeg
 categories: category1
 
