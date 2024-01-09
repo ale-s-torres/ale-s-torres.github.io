@@ -24,6 +24,8 @@ After completing my undergrad studies in Early Childhool Education, I moved to T
 
 The 2014-2015 academic year brought another opportunity to volunteer, this time at an elementary school in Palo Alto, California. I assisted in three kindergarten classes, one first-grade class, and a second-grade class, all of which were Spanish immersion classes. Additionally, I supervised the playground during recess and accompanied two first-grade and two second-grade classes during their lunchtime. In the 2015-2016 school year, I continued as an assistant in a first-grade class and maintained my supervisory role during recess and lunch.
 
+![Lunch](../assets/img/boys.JPG)
+
 I am commited to enhancing educational opportunities, particularly for communities facing social and economic challenges. My journey from a high school project to volunteering in various educational settings in the United States underscores my passion for and commitment to the field of education.
 
 
