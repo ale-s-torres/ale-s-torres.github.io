@@ -12,7 +12,7 @@ author: Nina Petropoulos
 
 My educational journey commenced during my high school years when I volunteered to participate in an initiative aimed at promoting adult literacy. Working closely with adults who couldn't read or write, I gained insight into the challenges they faced in a literate world. This experience was eye-opening, highlighting the critical importance of education in every individual's life and steering me towards my career path.
 
-![Me surrounded by six cheerful children on a sunlit school playground with a colorful fence and distant hills in the background.](../assets/img/grupo.JPG)
+![Me surrounded by six cheerful children on a sunlit school playground with a colorful fence and distant hills in the background.](https://ale-s-torres.github.io/assets/img/grupo.JPG)
 
 
 
