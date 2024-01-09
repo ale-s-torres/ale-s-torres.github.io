@@ -12,6 +12,8 @@ author: Nina Petropoulos
 
 My educational journey commenced during my high school years when I volunteered to participate in an initiative aimed at promoting adult literacy. Working closely with adults who couldn't read or write, I gained insight into the challenges they faced in a literate world. This experience was eye-opening, highlighting the critical importance of education in every individual's life and steering me towards my career path.
 
+![Me surrounded by six cheerful children on a sunlit school playground with a colorful fence and distant hills in the background.](../assets/img/grupo.JPG)
+
 
 
 In 2008, I embarked on a journey in Early Childhood Education at the Benemérita y Centenaria Escuela Normal Oficial de Guanajuato. Over these four years, I gained invaluable practical experience in various Guanajuato communities, enhancing my understanding of education's role in shaping social and economic futures. A pivotal experience was my assignment in Calderones, Gto., a remote mountain community accessible only by a perilous dirt road. Despite the challenges of a twice-daily, risky commute on public transport, I was driven by my encounters with resource-deprived schools and the stark need for dedicated educators. This motivated me to commit myself to serving those in the greatest need.
