@@ -15,6 +15,12 @@ In 2013, I purchased my first camera, sparking an interest in observing nature, 
 | <img src="https://ale-s-torres.github.io/assets/img/grupo.JPG" width="600"> | 
 |:--:| 
 |test|
+```
+camera:         NIKON D5300
+focal length:   105 mm
+F number:       f/5
+exposure time:  1/125
+```
 
 Later, in 2014, my intrigue extended to the intricate interactions between plants and insects. I decided to challenge myself with macro photography — a form I found to be the most difficult due to variables such as the rapid movement of plant parts and insects, sometimes due to unavoidable elements like wind.
 
