@@ -10,3 +10,14 @@ categories: category1
 author: Nina Petropoulos
 ---
 
+In 2013, I purchased my first camera, sparking an interest in observing nature, particularly the behaviors of animals. I would sit and attempt to photograph the unique personalities and attitudes of each species I encountered in my daily life, particularly birds.
+
+| <img src="https://ale-s-torres.github.io/assets/img/grupo.JPG" width="600"> | 
+|:--:| 
+|test|
+
+Later, in 2014, my intrigue extended to the intricate interactions between plants and insects. I decided to challenge myself with macro photography — a form I found to be the most difficult due to variables such as the rapid movement of plant parts and insects, sometimes due to unavoidable elements like wind.
+
+
+
+Portrait photography has been a more personal endeavor, practiced within my close circle, including my family and children I have met in schools where I've worked. These portraits have been a way to document significant and personal moments. Although it's currently a personal passion, I aspire to pursue it professionally one day.
