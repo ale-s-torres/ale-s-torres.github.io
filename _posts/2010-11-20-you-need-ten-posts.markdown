@@ -15,6 +15,7 @@ In 2013, I purchased my first camera, sparking an interest in observing nature, 
 | <img src="https://ale-s-torres.github.io/assets/img/grupo.JPG" width="600"> | 
 |:--:| 
 |test|
+
 ```
 camera:         NIKON D5300
 focal length:   105 mm
