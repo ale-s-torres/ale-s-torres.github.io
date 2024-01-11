@@ -12,7 +12,11 @@ author: Nina Petropoulos
 
 In 2013, I purchased my first camera, sparking an interest in observing nature, particularly the behaviors of animals. I would sit and attempt to photograph the unique personalities and attitudes of each species I encountered in my daily life, particularly birds.
 
-| <img src="https://ale-s-torres.github.io/assets/img/grupo.JPG" width="600"> | 
+| <img src="https://ale-s-torres.github.io/assets/img/cerca.JPG" width="600"> | 
+|:--:| 
+|test|
+
+| <img src="https://ale-s-torres.github.io/assets/img/pez.JPG" width="600"> | 
 |:--:| 
 |test|
 
