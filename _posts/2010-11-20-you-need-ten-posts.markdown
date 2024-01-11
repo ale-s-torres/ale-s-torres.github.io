@@ -54,3 +54,7 @@ Portrait photography has been a more personal endeavor, practiced within my clos
 | <img src="https://ale-s-torres.github.io/assets/img/nino.JPG" width="600"> | 
 |:--:| 
 |test|
+
+| <img src="https://ale-s-torres.github.io/assets/img/vera.JPG" width="600"> | 
+|:--:| 
+|test|
