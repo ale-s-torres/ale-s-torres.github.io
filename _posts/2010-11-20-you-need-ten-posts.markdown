@@ -42,3 +42,11 @@ Later, in 2014, my intrigue extended to the intricate interactions between plant
 |test|
 
 Portrait photography has been a more personal endeavor, practiced within my close circle, including my family and children I have met in schools where I've worked. These portraits have been a way to document significant and personal moments. Although it's currently a personal passion, I aspire to pursue it professionally one day.
+
+| <img src="https://ale-s-torres.github.io/assets/img/bebe.JPG" width="600"> | 
+|:--:| 
+|test|
+
+| <img src="https://ale-s-torres.github.io/assets/img/lab.JPG" width="600"> | 
+|:--:| 
+|test|
