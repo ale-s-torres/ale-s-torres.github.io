@@ -26,7 +26,15 @@ During my final year in the Early Childhood Education program at the Benemérita
 
 For example, "The Hand That Doesn't Get Wet," was an activity involved preschoolers (around 4 years old) applying talcum powder to their hands and then attempting to retrieve a coin from the bottom of a water-filled container. Initially, the children hypothesized that their hands would get wet, but they were surprised to find their hands stayed dry, thanks to the hydrophobic properties of talcum powder. This experiment introduced basic scientific concepts and encouraged critical thinking. 
 
+| <img src="https://ale-s-torres.github.io/assets/img/mano.JPG" width="600"> | 
+|:--:| 
+|  |
+
 Another experiment, "Which Egg Spins Faster?", involved spinning a raw egg with a happy face and a boiled egg with a sad face, challenging the children's initial belief that the raw egg would spin faster. This experiment challenged the childrens' assumptions and exposed them to physical concepts like inertia and rotational motion. Through this interactive learning experience, the children were able to grasp the principles of physics in a tangible way, underscoring the importance of experiential learning in early childhood education.
+
+| <img src="https://ale-s-torres.github.io/assets/img/huevo.JPG" width="600"> | 
+|:--:| 
+|  |
 
 These experiences not only demonstrated the power of inquiry-based learning in early childhood education but also emphasized the importance of hands-on, empirical learning approaches in shaping young minds. For those interested in exploring these methods further, [click here to read my thesis](). This work significantly contributes to the field of Early Childhood Education by demonstrating the profound impact of experiential learning in developing critical thinking and scientific understanding from a young age.
 
