@@ -109,8 +109,7 @@ Exposure time:   1/2,500
 
 Portrait photography has been a more personal endeavor, practiced within my close circle, including my family and children I have met in schools where I've worked. These portraits have been a way to document significant and personal moments. Although it's currently a personal passion, I aspire to pursue it professionally one day.
 
-| <img src="https://ale-s-torres.github.io/assets/img/bebe.JPG" width="600"> | 
-|:--:| 
+<img src="https://ale-s-torres.github.io/assets/img/bebe.JPG" width="600">
 
 ```
 Camera:          Fujifilm X-T30 II
@@ -119,8 +118,7 @@ F number:        f/4
 Exposure time:   1/240
 ```
 
-| <img src="https://ale-s-torres.github.io/assets/img/lab.JPG" width="600"> | 
-|:--:| 
+<img src="https://ale-s-torres.github.io/assets/img/lab.JPG" width="600">
 
 ```
 Camera:          Nikon D5300
@@ -129,8 +127,7 @@ F number:        f/4
 Exposure time:   1/60
 ```
 
-| <img src="https://ale-s-torres.github.io/assets/img/nino.JPG" width="600"> | 
-|:--:| 
+<img src="https://ale-s-torres.github.io/assets/img/nino.JPG" width="600">
 
 ```
 Camera:          Nikon D5300
@@ -139,8 +136,7 @@ F number:        f/8
 Exposure time:   1/250
 ```
 
-| <img src="https://ale-s-torres.github.io/assets/img/bb.JPG" width="600"> | 
-|:--:| 
+<img src="https://ale-s-torres.github.io/assets/img/bb.JPG" width="600">
 
 ```
 Camera:          Nikon D750
