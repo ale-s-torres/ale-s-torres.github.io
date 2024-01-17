@@ -15,18 +15,42 @@ In 2013, I purchased my first camera, sparking an interest in observing nature, 
 | <img src="https://ale-s-torres.github.io/assets/img/cerca.JPG" width="600"> | 
 |:--:| 
 |test|
+```
+Camera:          Nikon D5300
+Focal lenght:    200 mm
+F number:        f/5.6
+Exposure time:   1/500
+```
 
 | <img src="https://ale-s-torres.github.io/assets/img/pez.JPG" width="600"> | 
 |:--:| 
 |test|
+```
+Camera:          Nikon D5300
+Focal lenght:    105 mm
+F number:        f/3
+Exposure time:   1/60
+```
 
 | <img src="https://ale-s-torres.github.io/assets/img/gaviota2.JPG" width="600"> | 
 |:--:| 
 |test|
+```
+Camera:          COOLPIX P520
+Focal lenght:    57.9 mm
+F number:        f/5.4
+Exposure time:   1/1,250
+```
 
 | <img src="https://ale-s-torres.github.io/assets/img/peces.JPG" width="600"> | 
 |:--:| 
 |test|
+```
+Camera:          Nikon D5300
+Focal lenght:    105 mm
+F number:        f/3.2
+Exposure time:   1/160
+```
 
 ```
 
