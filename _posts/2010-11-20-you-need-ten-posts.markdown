@@ -14,7 +14,7 @@ In 2013, I purchased my first camera, sparking an interest in observing nature, 
 
 | <img src="https://ale-s-torres.github.io/assets/img/cerca.JPG" width="600"> | 
 |:--:| 
-|test|
+|Solitary bird perched on weathered wood|
 
 ```
 Camera:          Nikon D5300
