@@ -147,8 +147,8 @@ Exposure time:   1/250
 |test|
 
 ```
-Camera:          Nikon D5300
+Camera:          Nikon D750
 Focal lenght:    105 mm
-F number:        f/8
-Exposure time:   1/250
+F number:        f/3
+Exposure time:   1/125
 ```
