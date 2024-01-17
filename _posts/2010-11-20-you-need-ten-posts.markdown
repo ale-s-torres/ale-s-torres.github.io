@@ -14,7 +14,7 @@ In 2013, I purchased my first camera, sparking an interest in observing nature, 
 
 | <img src="https://ale-s-torres.github.io/assets/img/cerca.JPG" width="600"> | 
 |:--:| 
-|Solitary bird perched on weathered wood|
+|**Solitary bird perched on weathered wood**|
 
 ```
 Camera:          Nikon D5300
@@ -25,7 +25,7 @@ Exposure time:   1/500
 
 | <img src="https://ale-s-torres.github.io/assets/img/pez.JPG" width="600"> | 
 |:--:| 
-|test|
+|**Striped fish swimming in a coral reef**|
 
 ```
 Camera:          Nikon D5300
@@ -36,7 +36,7 @@ Exposure time:   1/60
 
 | <img src="https://ale-s-torres.github.io/assets/img/gaviota2.JPG" width="600"> | 
 |:--:| 
-|test|
+|**Seagull portrait with a pier background**|
 
 ```
 Camera:          COOLPIX P520
