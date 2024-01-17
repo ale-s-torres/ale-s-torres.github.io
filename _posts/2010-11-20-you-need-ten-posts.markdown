@@ -62,19 +62,19 @@ Later, in 2014, my intrigue extended to the intricate interactions between plant
 
 | <img src="https://ale-s-torres.github.io/assets/img/abeja.JPG" width="600"> | 
 |:--:| 
-|test|
+|**Bee collecting pollen on yellow flowers**|
 
 | <img src="https://ale-s-torres.github.io/assets/img/catarina.JPG" width="600"> | 
 |:--:| 
-|test|
+|**Ladybug perched atop yellow blossoms**|
 
 | <img src="https://ale-s-torres.github.io/assets/img/flor.JPG" width="600"> | 
 |:--:| 
-|test|
+|**Tiny beetle eating a daisy petal**|
 
 | <img src="https://ale-s-torres.github.io/assets/img/aguijon.JPG" width="600"> | 
 |:--:| 
-|test|
+|**Bee approaches bloom in a fleeting moment**|
 
 Portrait photography has been a more personal endeavor, practiced within my close circle, including my family and children I have met in schools where I've worked. These portraits have been a way to document significant and personal moments. Although it's currently a personal passion, I aspire to pursue it professionally one day.
 
