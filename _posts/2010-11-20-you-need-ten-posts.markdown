@@ -111,7 +111,7 @@ Portrait photography has been a more personal endeavor, practiced within my clos
 
 | <img src="https://ale-s-torres.github.io/assets/img/bebe.JPG" width="600"> | 
 |:--:| 
-|test|
+||
 
 ```
 Camera:          Fujifilm X-T30 II
@@ -122,7 +122,7 @@ Exposure time:   1/240
 
 | <img src="https://ale-s-torres.github.io/assets/img/lab.JPG" width="600"> | 
 |:--:| 
-|test|
+||
 
 ```
 Camera:          Nikon D5300
@@ -133,7 +133,7 @@ Exposure time:   1/60
 
 | <img src="https://ale-s-torres.github.io/assets/img/nino.JPG" width="600"> | 
 |:--:| 
-|test|
+||
 
 ```
 Camera:          Nikon D5300
@@ -144,7 +144,7 @@ Exposure time:   1/250
 
 | <img src="https://ale-s-torres.github.io/assets/img/bb.JPG" width="600"> | 
 |:--:| 
-|test|
+||
 
 ```
 Camera:          Nikon D750
