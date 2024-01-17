@@ -64,17 +64,45 @@ Later, in 2014, my intrigue extended to the intricate interactions between plant
 |:--:| 
 |**Bee collecting pollen on yellow flowers**|
 
+```
+Camera:          Nikon D5300
+Focal lenght:    105 mm
+F number:        f/3.3
+Exposure time:   1/4,000
+```
+
 | <img src="https://ale-s-torres.github.io/assets/img/catarina.JPG" width="600"> | 
 |:--:| 
 |**Ladybug perched atop yellow blossoms**|
+
+```
+Camera:          Nikon D5300
+Focal lenght:    105 mm
+F number:        f/3.5
+Exposure time:   1/4,000
+```
 
 | <img src="https://ale-s-torres.github.io/assets/img/flor.JPG" width="600"> | 
 |:--:| 
 |**Tiny beetle eating a daisy petal**|
 
+```
+Camera:          Nikon D750
+Focal lenght:    105 mm
+F number:        f/20
+Exposure time:   1/200
+```
+
 | <img src="https://ale-s-torres.github.io/assets/img/aguijon.JPG" width="600"> | 
 |:--:| 
 |**Bee approaches bloom in a fleeting moment**|
+
+```
+Camera:          Nikon D5300
+Focal lenght:    105 mm
+F number:        f/3.2
+Exposure time:   1/2,500
+```
 
 Portrait photography has been a more personal endeavor, practiced within my close circle, including my family and children I have met in schools where I've worked. These portraits have been a way to document significant and personal moments. Although it's currently a personal passion, I aspire to pursue it professionally one day.
 
