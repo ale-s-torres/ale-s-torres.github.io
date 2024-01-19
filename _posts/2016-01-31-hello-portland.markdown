@@ -44,7 +44,7 @@ The 2014-2015 academic year brought another opportunity to volunteer, this time 
 
 | <img src="https://ale-s-torres.github.io/assets/img/boys.JPG" width="600"> | 
 |:--:| 
-|  |
+| I took this photograph during the period I volunteered at an elementary school in California. Children engaging in writing activities during recess. |
 
 I am commited to enhancing educational opportunities, particularly for communities facing social and economic challenges. My journey from a high school project to volunteering in various educational settings in the United States underscores my passion for and commitment to the field of education.
 
