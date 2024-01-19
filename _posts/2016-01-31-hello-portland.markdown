@@ -20,7 +20,7 @@ In 2008, I embarked on a journey in Early Childhood Education at the Benemérita
 
 | <img src="https://ale-s-torres.github.io/assets/img/calderones.JPG" width="600"> | 
 |:--:| 
-|  |
+| The view of the Manuel Flores Kindergarten from my classroom. |
 
 During my final year in the Early Childhood Education program at the Benemérita y Centenaria Escuela Normal Oficial de Guanajuato, my undergraduate thesis focused on the use of experimentation to enhance cognitive abilities like hypothesis formulation and observation in preschool children. This approach was designed to deepen my understanding of child cognitive development, improve the design of activities promoting this development, and analyze and modify my teaching interventions to better support children's cognitive capacities. 
 
