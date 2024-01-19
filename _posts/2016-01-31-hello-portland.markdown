@@ -14,7 +14,7 @@ My educational journey commenced during my high school years when I volunteered 
 
 | <img src="https://ale-s-torres.github.io/assets/img/grupo.JPG" width="600"> | 
 |:--:| 
-|  |
+| In this photo from December 2010, I'm standing with a group of second-year preschool children in the community of Calderones. |
 
 In 2008, I embarked on a journey in Early Childhood Education at the Benemérita y Centenaria Escuela Normal Oficial de Guanajuato. Over these four years, I gained invaluable practical experience in various Guanajuato communities, enhancing my understanding of education's role in shaping social and economic futures. A pivotal experience was my assignment in Calderones, Gto., a remote mountain community accessible only by a perilous dirt road. Despite the challenges of a twice-daily, risky commute on public transport, I was driven by my encounters with resource-deprived schools and the stark need for dedicated educators. This motivated me to commit myself to serving those in the greatest need.
 
