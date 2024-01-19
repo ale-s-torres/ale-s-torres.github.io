@@ -30,7 +30,7 @@ For example, "The Hand That Doesn't Get Wet," was an activity involved preschool
 
 | <img src="https://ale-s-torres.github.io/assets/img/mano.JPG" width="600"> | 
 |:--:| 
-|  |
+| This is the annotation made by a student about the "hand that doesn't get wet" experiment. She drew diagrams of the materials used during the experiment and her hands, one of them covered with talcum powder and the other without it. |
 
 Another experiment, "Which Egg Spins Faster?", involved spinning a raw egg with a happy face and a boiled egg with a sad face, challenging the children's initial belief that the raw egg would spin faster. This experiment challenged the childrens' assumptions and exposed them to physical concepts like inertia and rotational motion. Through this interactive learning experience, the children were able to grasp the principles of physics in a tangible way, underscoring the importance of experiential learning in early childhood education.
 
