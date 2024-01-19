@@ -16,6 +16,8 @@ My educational journey commenced during my high school years when I volunteered 
 |:--:| 
 | In this photo from December 2010, I'm standing with a group of kindergarteners in the community of Calderones, Guanajuato. |
 
+## Bachelor's Degree in Mexico
+
 In 2008, I embarked on a journey in Early Childhood Education at the Benemérita y Centenaria Escuela Normal Oficial de Guanajuato. Over these four years, I gained invaluable practical experience in various Guanajuato communities, enhancing my understanding of education's role in shaping social and economic futures. A pivotal experience was my assignment in Calderones, Gto., a remote mountain community accessible only by a perilous dirt road. Despite the challenges of a twice-daily, risky commute on public transport, I was driven by my encounters with resource-deprived schools and the stark need for dedicated educators. This motivated me to commit myself to serving those in the greatest need.
 
 | <img src="https://ale-s-torres.github.io/assets/img/calderones.JPG" width="600"> | 
@@ -37,6 +39,8 @@ Another experiment, "Which Egg Spins Faster?", involved spinning a raw egg with 
 |  |
 
 These experiences not only demonstrated the power of inquiry-based learning in early childhood education but also emphasized the importance of hands-on, empirical learning approaches in shaping young minds. For those interested in exploring these methods further, [click here to read my thesis](). This work significantly contributes to the field of Early Childhood Education by demonstrating the profound impact of experiential learning in developing critical thinking and scientific understanding from a young age.
+
+## Volunteer Experience in USA
 
 After completing my undergrad studies in Early Childhool Education, I moved to Texas in 2013 with a visa that heavily restricted me from working or studying. However, eager to continue learning about early childhood education, I volunteered for a summer school program at an elementary school. My role involved reading books to kindergarten classes. It was during this time that I met a bilingual mathematics specialist who offered me the opportunity to volunteer in her class in the fall semester. There, I worked with small groups of Spanish-speaking kindergarten students struggling with math, tailoring activities to their learning needs to reinforce classroom lessons.
 
