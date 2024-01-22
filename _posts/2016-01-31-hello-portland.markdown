@@ -46,6 +46,8 @@ After completing my undergrad studies in Early Childhool Education, I moved to T
 
 The 2014-2015 academic year brought another opportunity to volunteer, this time at an elementary school in Palo Alto, California. I assisted in three kindergarten classes, one first-grade class, and a second-grade class, all of which were Spanish immersion classes. Additionally, I supervised the playground during recess and accompanied two first-grade and two second-grade classes during their lunchtime. In the 2015-2016 school year, I continued as an assistant in a first-grade class and maintained my supervisory role during recess and lunch.
 
+One of the challenges I set for myself was to identify and help children who were being excluded. My goal was to ensure that these children were included during playtime and that they could confidently interact with other children. I believe I succeeded in building a trusting and friendly relationship with many of the kids, as they would often come up to me during recess to talk about things happening at school and in their everyday lives. This interaction not only fostered a safe and inclusive environment on the playground but also allowed me to understand the dynamics of their relationships and the social challenges they faced, further enriching my experience in early childhood education.
+
 | <img src="https://ale-s-torres.github.io/assets/img/boys.JPG" width="600"> | 
 |:--:| 
 | **I took this photograph during the period I volunteered at an elementary school in California. Children engaging in writing activities during recess.** |
