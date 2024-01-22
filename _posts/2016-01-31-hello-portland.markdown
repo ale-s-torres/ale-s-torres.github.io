@@ -14,7 +14,7 @@ My educational journey commenced during my high school years when I volunteered 
 
 | <img src="https://ale-s-torres.github.io/assets/img/grupo.JPG" width="600"> | 
 |:--:| 
-| In this photo from December 2010, I'm standing with a group of kindergarteners in the community of Calderones, Guanajuato. |
+| **In this photo from December 2010, I'm standing with a group of kindergarteners in the community of Calderones, Guanajuato.** |
 
 ## Bachelor's Degree in Mexico
 
@@ -22,7 +22,7 @@ In 2008, I embarked on a journey in Early Childhood Education at the Benemérita
 
 | <img src="https://ale-s-torres.github.io/assets/img/calderones.JPG" width="600"> | 
 |:--:| 
-| The view of the Manuel Flores Kindergarten from my classroom. |
+| **The view of the Manuel Flores Kindergarten from my classroom.** |
 
 During my final year in the Early Childhood Education program at the Benemérita y Centenaria Escuela Normal Oficial de Guanajuato, my undergraduate thesis focused on the use of experimentation to enhance cognitive abilities like hypothesis formulation and observation in preschool children. This approach was designed to deepen my understanding of child cognitive development, improve the design of activities promoting this development, and analyze and modify my teaching interventions to better support children's cognitive capacities. 
 
@@ -30,13 +30,13 @@ For example, "The Hand That Doesn't Get Wet," was an activity involved preschool
 
 | <img src="https://ale-s-torres.github.io/assets/img/mano.JPG" width="600"> | 
 |:--:| 
-| This is the annotation made by a student about the "hand that doesn't get wet" experiment. She drew diagrams of the materials used during the experiment and her hands, one of them covered with talcum powder and the other without it. |
+| **This is the annotation made by a student about the "hand that doesn't get wet" experiment. She drew diagrams of the materials used during the experiment and her hands, one of them covered with talcum powder and the other without it.** |
 
 Another experiment, "Which Egg Spins Faster?", involved spinning a raw egg with a happy face and a boiled egg with a sad face, challenging the children's initial belief that the raw egg would spin faster. This experiment challenged the childrens' assumptions and exposed them to physical concepts like inertia and rotational motion. Through this interactive learning experience, the children were able to grasp the principles of physics in a tangible way, underscoring the importance of experiential learning in early childhood education.
 
 | <img src="https://ale-s-torres.github.io/assets/img/huevo.JPG" width="600"> | 
 |:--:| 
-| This annotation made by a student shows diagrams of the eggs and using emergent writing she explains what happened with each of them. |
+| **This annotation made by a student shows diagrams of the eggs and using emergent writing she explains what happened with each of them.** |
 
 These experiences not only demonstrated the power of inquiry-based learning in early childhood education but also emphasized the importance of hands-on, empirical learning approaches in shaping young minds. For those interested in exploring these methods further, [click here to read my thesis](). This work significantly contributes to the field of Early Childhood Education by demonstrating the profound impact of experiential learning in developing critical thinking and scientific understanding from a young age.
 
@@ -48,7 +48,7 @@ The 2014-2015 academic year brought another opportunity to volunteer, this time 
 
 | <img src="https://ale-s-torres.github.io/assets/img/boys.JPG" width="600"> | 
 |:--:| 
-| I took this photograph during the period I volunteered at an elementary school in California. Children engaging in writing activities during recess. |
+| **I took this photograph during the period I volunteered at an elementary school in California. Children engaging in writing activities during recess.** |
 
 I am commited to enhancing educational opportunities, particularly for communities facing social and economic challenges. My journey from a high school project to volunteering in various educational settings in the United States underscores my passion for and commitment to the field of education.
 
