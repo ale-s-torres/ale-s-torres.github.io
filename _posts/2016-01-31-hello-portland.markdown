@@ -54,4 +54,4 @@ I am commited to enhancing educational opportunities, particularly for communiti
 
 | <img src="https://ale-s-torres.github.io/assets/img/girls.JPG" width="600"> | 
 |:--:| 
-|  |
+| **Building friendships with the children during recess was my favorite part of volunteering.** |
