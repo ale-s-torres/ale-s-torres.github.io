@@ -36,7 +36,7 @@ Another experiment, "Which Egg Spins Faster?", involved spinning a raw egg with 
 
 | <img src="https://ale-s-torres.github.io/assets/img/huevo.JPG" width="600"> | 
 |:--:| 
-|  |
+| This annotation made by a student shows diagrams of the eggs and using emergent writing she explains what happened with each of them. |
 
 These experiences not only demonstrated the power of inquiry-based learning in early childhood education but also emphasized the importance of hands-on, empirical learning approaches in shaping young minds. For those interested in exploring these methods further, [click here to read my thesis](). This work significantly contributes to the field of Early Childhood Education by demonstrating the profound impact of experiential learning in developing critical thinking and scientific understanding from a young age.
 
