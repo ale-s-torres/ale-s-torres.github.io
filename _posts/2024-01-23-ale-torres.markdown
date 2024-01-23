@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Alejandra S Torres"
+title:  "Alejandra Torres"
 date:   2024-01-23 09:11:03
 description: About me
-thumbnail: purple.JPG
+thumbnail: abeja2.JPG
 categories: category1
 
 # Information for the author block
