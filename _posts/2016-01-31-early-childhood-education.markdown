@@ -3,7 +3,7 @@ layout: post
 title:  "Early Childhood Education"
 date:   2024-01-20 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: child.JPG
+thumbnail: ari.JPG
 categories: category1
 
 # Information for the author block
