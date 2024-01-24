@@ -3,7 +3,7 @@ layout: post
 title:  "Photography"
 date:   2024-01-18 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: purple.JPG
+thumbnail: abeja2.JPG
 categories: category1
 
 # Information for the author block
