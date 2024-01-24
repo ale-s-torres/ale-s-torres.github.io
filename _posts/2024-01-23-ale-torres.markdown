@@ -3,7 +3,7 @@ layout: post
 title:  "Alejandra Torres"
 date:   2024-01-23 09:11:03
 description: About me
-thumbnail: abeja2.JPG
+thumbnail: abeja3.JPG
 categories: category1
 
 # Information for the author block
