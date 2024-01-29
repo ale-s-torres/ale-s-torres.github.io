@@ -6,8 +6,6 @@ description: About me
 thumbnail: purple.JPG
 categories: category1
 
-# Information for the author block
-author: Nina Petropoulos
 ---
 
 I have dedicated my career to fostering learning in various capacities. 
