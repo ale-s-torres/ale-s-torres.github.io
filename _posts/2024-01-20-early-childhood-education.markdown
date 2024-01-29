@@ -6,8 +6,6 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: ari.JPG
 categories: category1
 
-# Information for the author block
-author: Nina Petropoulos
 ---
 
 My educational journey commenced during my high school years when I volunteered to participate in an initiative aimed at promoting adult literacy. Working closely with adults who couldn't read or write, I gained insight into the challenges they faced in a literate world. This experience was eye-opening, highlighting the critical importance of education in every individual's life and steering me towards my career path.
