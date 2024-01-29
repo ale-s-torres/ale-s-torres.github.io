@@ -20,6 +20,7 @@ Camera:          Nikon D5300
 Focal lenght:    200 mm
 F number:        f/5.6
 Exposure time:   1/500
+
 ```
 
 | <img src="https://ale-s-torres.github.io/assets/img/pez.JPG" width="600"> | 
@@ -31,6 +32,7 @@ Camera:          Nikon D5300
 Focal lenght:    105 mm
 F number:        f/3
 Exposure time:   1/60
+
 ```
 
 | <img src="https://ale-s-torres.github.io/assets/img/gaviota2.JPG" width="600"> | 
@@ -42,6 +44,7 @@ Camera:          COOLPIX P520
 Focal lenght:    57.9 mm
 F number:        f/5.4
 Exposure time:   1/1,250
+
 ```
 
 | <img src="https://ale-s-torres.github.io/assets/img/peces.JPG" width="600"> | 
@@ -53,6 +56,7 @@ Camera:          Nikon D5300
 Focal lenght:    105 mm
 F number:        f/3.2
 Exposure time:   1/160
+
 ```
 
 ## Macro
@@ -68,6 +72,7 @@ Camera:          Nikon D5300
 Focal lenght:    105 mm
 F number:        f/3.3
 Exposure time:   1/4,000
+
 ```
 
 | <img src="https://ale-s-torres.github.io/assets/img/catarina.JPG" width="600"> | 
@@ -79,6 +84,7 @@ Camera:          Nikon D5300
 Focal lenght:    105 mm
 F number:        f/3.5
 Exposure time:   1/4,000
+
 ```
 
 | <img src="https://ale-s-torres.github.io/assets/img/flor.JPG" width="600"> | 
@@ -90,6 +96,7 @@ Camera:          Nikon D750
 Focal lenght:    105 mm
 F number:        f/20
 Exposure time:   1/200
+
 ```
 
 | <img src="https://ale-s-torres.github.io/assets/img/aguijon.JPG" width="600"> | 
@@ -101,6 +108,7 @@ Camera:          Nikon D5300
 Focal lenght:    105 mm
 F number:        f/3.2
 Exposure time:   1/2,500
+
 ```
 
 ## Portrait
@@ -114,6 +122,7 @@ Camera:          Fujifilm X-T30 II
 Focal lenght:    15mm mm
 F number:        f/4
 Exposure time:   1/240
+
 ```
 
 <img src="https://ale-s-torres.github.io/assets/img/lab.JPG" width="600">
@@ -123,6 +132,7 @@ Camera:          Nikon D5300
 Focal lenght:    18 mm
 F number:        f/4
 Exposure time:   1/60
+
 ```
 
 <img src="https://ale-s-torres.github.io/assets/img/nino.JPG" width="600">
@@ -132,6 +142,7 @@ Camera:          Nikon D5300
 Focal lenght:    105 mm
 F number:        f/8
 Exposure time:   1/250
+
 ```
 
 <img src="https://ale-s-torres.github.io/assets/img/bb.JPG" width="600">
@@ -141,4 +152,5 @@ Camera:          Nikon D750
 Focal lenght:    105 mm
 F number:        f/3
 Exposure time:   1/125
+
 ```
