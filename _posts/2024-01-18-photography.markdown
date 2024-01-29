@@ -6,8 +6,6 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: abeja2.JPG
 categories: category1
 
-# Information for the author block
-author: Nina Petropoulos
 ---
 ## Wildlife
 
