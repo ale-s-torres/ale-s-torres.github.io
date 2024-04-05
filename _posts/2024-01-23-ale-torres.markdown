@@ -8,7 +8,7 @@ categories: category1
 
 ---
 
-Resume: [View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ale-s-torres/ale-s-torres.github.io/main/Resume.pdf) [Download](https://raw.githubusercontent.com/ale-s-torres/ale-s-torres.github.io/main/Resume.pdf)
+Resume: [View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ale-s-torres/ale-s-torres.github.io/main/Resume.pdf) | [Download](https://raw.githubusercontent.com/ale-s-torres/ale-s-torres.github.io/main/Resume.pdf)
 
 I have dedicated my career to fostering learning in various capacities. 
 I honed my skills in Early Childhood Education at the Benemérita y Centenaria
