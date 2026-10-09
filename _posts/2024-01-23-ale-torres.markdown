@@ -10,16 +10,8 @@ categories: category1
 
 Resume: [View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ale-s-torres/ale-s-torres.github.io/main/Alejandra_Torres_CV.pdf)  ||  [Download](https://raw.githubusercontent.com/ale-s-torres/ale-s-torres.github.io/main/Alejandra_Torres_CV.pdf)
 
-I have dedicated my career to fostering learning in various capacities. 
-I honed my skills in Early Childhood Education at the Benemérita y Centenaria
-Escuela Normal Oficial de Guanajuato, where I embraced the power of inquiry-based 
-learning and the importance of hands-on experiences, as evidenced by my innovative 
-thesis projects. Moving to the USA in 2013, my passion led me to volunteer in summer 
-school programs and Spanish immersion classes in California, with a focus on creating
-inclusive play environments and building trust with children, allowing me to gain deep 
-insights into the social dynamics and challenges within educational settings. Alongside
-my educational pursuits, I've cultivated a passion for photography, capturing the essence
-of nature, the delicate dance between flora and insects, and the unspoken stories in the
-portraits of those around me. My website reflects this rich tapestry of experiences, 
-showcasing my commitment to enriching education and my aspiration to one day professionalize
-my talent in photography.
+My professional journey brings together early childhood education, community involvement and photography. I studied Early Childhood Education at the Benemérita y Centenaria Escuela Normal Oficial de Guanajuato, where I developed a strong interest in inquiry-based learning and hands-on experiences. After moving to the United States in 2013, I volunteered in summer school programmes and Spanish immersion classes in California, creating inclusive play environments and building trusting relationships with children.
+
+I now work at Little Jungle, supporting children’s daily routines and learning through play. Inspired by the Reggio Emilia approach, I value children as capable learners and encourage their curiosity, independence and confidence. After nine years as a full-time mum, Little Jungle gave me my first professional opportunity and a supportive place to continue growing as an educator.
+
+Photography is another important part of my work. I enjoy capturing the beauty of nature, the relationship between plants and insects, and the stories revealed through portraiture. This website brings my interests together and reflects my commitment to learning, creativity and professional growth.
