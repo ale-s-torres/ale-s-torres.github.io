@@ -49,3 +49,7 @@ One of the challenges I set for myself was to identify and help children who wer
 |
 
 I am commited to enhancing educational opportunities, particularly for communities facing social and economic challenges. My journey from a high school project to volunteering in various educational settings in the United States underscores my passion for and commitment to the field of education.
+
+## Currently Working at Little Jungle School of Early Childhood
+
+I currently work at Little Jungle, a beautiful nursery located in London, UK, where I support children throughout the day and help create a safe, welcoming and stimulating environment. I support their mealtimes, rest and personal care routines, and take part in activities such as construction, mark-making, outdoor play and neighbourhood walks. Inspired by Little Jungle’s approach, I listen to children’s ideas and encourage them to explore, play and develop their own learning, recognising them as capable, curious and creative learners. I also work closely with my colleagues to support children’s well-being, maintain a safe environment and share incident reports with families.
