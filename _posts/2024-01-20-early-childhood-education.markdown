@@ -46,7 +46,6 @@ The 2014-2015 academic year brought another opportunity to volunteer, this time 
 
 
 One of the challenges I set for myself was to identify and help children who were being excluded. My goal was to ensure that these children were included during playtime and that they could confidently interact with other children. I believe I succeeded in building a trusting and friendly relationship with many of the kids, as they would often come up to me during recess to talk about things happening at school and in their everyday lives. This interaction not only fostered a safe and inclusive environment on the playground but also allowed me to understand the dynamics of their relationships and the social challenges they faced, further enriching my experience in early childhood education.
-|
 
 I am commited to enhancing educational opportunities, particularly for communities facing social and economic challenges. My journey from a high school project to volunteering in various educational settings in the United States underscores my passion for and commitment to the field of education.
 
